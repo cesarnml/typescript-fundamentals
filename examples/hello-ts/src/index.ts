@@ -7,9 +7,9 @@ function timeout(n: number) {
 }
 
 /**
- * Add three numbers
+ * Add two numbers
  * @param a first number
- * @param b second
+ * @param b second number
  */
 export async function addNumbers(a: number, b: number) {
   await timeout(500);

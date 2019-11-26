@@ -68,6 +68,11 @@
     "code-runner.executorMap": {
       "javascript": "node",
       "typescript": "node_modules/.bin/ts-node"
+    },
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#4F1F08",
+      "titleBar.activeBackground": "#6E2C0B",
+      "titleBar.activeForeground": "#FEF9F7"
     }
   },
   "extensions": {
